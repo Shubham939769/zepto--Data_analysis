@@ -6,7 +6,7 @@
 - Cleaned and transformed raw data
 - Performed revenue and discount analysis
 - Built advanced SQL queries (JOIN, GROUP BY, WINDOW FUNCTIONS)
-- Generated business insights
+- Generated business insights.
 
 ##  Tech Stack
 - PostgreSQL
