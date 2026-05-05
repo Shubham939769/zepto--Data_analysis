@@ -2,7 +2,14 @@
 
 This project focuses on performing end-to-end data analysis using PostgreSQL on a real-world inventory dataset inspired by Zepto (quick commerce domain). The goal of this project is to extract meaningful business insights from raw data using SQL by applying data cleaning, transformation, and advanced query techniques.
 
+
 It simulates how data analysts work with real datasets in e-commerce or quick delivery platforms—understanding product performance, pricing strategies, and revenue patterns.
+
+##  Key Highlights
+- Cleaned and transformed raw data
+- Performed revenue and discount analysis
+- Built advanced SQL queries (JOIN, GROUP BY, WINDOW FUNCTIONS)
+- Generated business insights.
 
 ---
 
