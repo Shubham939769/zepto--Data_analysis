@@ -95,3 +95,5 @@ This project is highly relevant for:
 * `queries/` → SQL scripts used for analysis
 * `results/` → Output insights or screenshots
 * `README.md` → Project documentation
+
+Good to go
