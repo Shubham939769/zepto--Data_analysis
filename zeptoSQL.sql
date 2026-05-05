@@ -138,3 +138,4 @@ GROUP BY category
 ORDER BY total_weight DESC;
 UPDATE zepto
 SET weightingms = weightingms / 1000.0;
+SELECT * FROM zepto;
